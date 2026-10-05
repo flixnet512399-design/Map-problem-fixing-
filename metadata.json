@@ -1,0 +1,6 @@
+{
+  "name": "MapForge AI – PUBG Map Creation Assistant",
+  "description": "AI-powered educational assistant and level design studio for creating custom PUBG-style battle royale maps, troubleshooting errors, terrain planning, and game flow optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
